@@ -1,0 +1,37 @@
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\ApplicationIcon.png
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\Background.png
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\Caro-ai.dll
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\Caro-ai.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\AppManifest.xaml
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\Caro_ai.xap
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\obj\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\obj\Debug\Caro-ai.g.resources
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\obj\Debug\Caro-ai.dll
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\obj\Debug\Caro-ai.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Caro-ai\Caro-ai\obj\Debug\XapCacheFile.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Caro-ai\Caro-ai\obj\Debug\App.g.i.cs
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Caro-ai\Caro-ai\obj\Debug\Board.g.i.cs
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Caro-ai\Caro-ai\obj\Debug\MainPage.g.i.cs
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\sounds\o_.wav
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Caro-ai\Caro-ai\Bin\Debug\sounds\x_.wav
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\Bin\Debug\ApplicationIcon.png
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\Bin\Debug\Background.png
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\Bin\Debug\sounds\o_.wav
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\Bin\Debug\sounds\x_.wav
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\Bin\Debug\Caro-ai.dll
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\Bin\Debug\Caro-ai.pdb
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\obj\Debug\Caro-ai.csprojResolveAssemblyReference.cache
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\obj\Debug\App.g.i.cs
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\obj\Debug\Board.g.i.cs
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\obj\Debug\MainPage.g.i.cs
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\obj\Debug\Caro-ai.g.resources
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\obj\Debug\Caro-ai.dll
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\obj\Debug\Caro-ai.pdb
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\Bin\Debug\AppManifest.xaml
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\Bin\Debug\Caro_ai.xap
+D:\Windown Phone\Caro-ai\Caro-ai\Caro-ai\obj\Debug\XapCacheFile.xml
